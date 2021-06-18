@@ -1,4 +1,4 @@
-# Update Linux terbaru 2021
+# Update Ubuntu terbaru 2021
 
 ## Tutorial penginstalan di termux :
 
