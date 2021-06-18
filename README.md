@@ -11,7 +11,7 @@
  
  **$ pkg install wget**
  
- ### PENGINSTALAN UBUNTU DI TERMUX**
+ ### PENGINSTALAN UBUNTU DI TERMUX
 
  **$ git clone https://github.com/ibed-berto/termux.git**
  
