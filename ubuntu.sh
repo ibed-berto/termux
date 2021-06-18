@@ -118,7 +118,7 @@ printf "\e[0m"
 if [ "$1" = "-y" ];then
 install1
 elif [ "$1" = "" ];then
-printf "\x1b[38;5;214m[${time1}]\e[0m \x1b[38;5;127m[QUESTION]:\e[0m \x1b[38;5;87m Apakah kalian ingin mengintall Ubuntu? Default Y [Y/n] "
+printf "\x1b[38;5;214m[${time1}]\e[0m \x1b[38;5;127m[QUESTION]:\e[0m \x1b[38;5;87m Apakah anda ingin mengintall Ubuntu? Default Y [Y/n] "
 
 read cmd1
 if [ "$cmd1" = "y" ];then
