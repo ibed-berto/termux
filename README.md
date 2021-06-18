@@ -1,26 +1,26 @@
-#Update Linux terbaru 2021.
+# Update Linux terbaru 2021
 
-##Tutorial pengintalan di termux :
+## Tutorial penginstalan di termux :
 
-     ###PERSIAPAN
- $ pkg update && upgrade -y
+### PERSIAPAN
+**$ pkg update && upgrade -y**
  
- $ pkg install git
+**$ pkg install git**
  
- $ pkg install proot
+**$ pkg install proot**
  
- $ pkg install wget
+ **$ pkg install wget**
  
-     ####PENGINSTALAN UBUNTU DI TERMUX
+ ### PENGINSTALAN UBUNTU DI TERMUX**
 
- $ git clone https://github.com/ibed-berto/termux.git
+ **$ git clone https://github.com/ibed-berto/termux.git**
  
- $ cd termux
+ **$ cd termux**
  
- $ chmod +x termux.sh
+ **$ chmod +x termux.sh**
  
- $ ./termux.sh
+ **$ ./termux.sh**
  
-     #####UNTUK MENJALANKAN UBUNTU DI TERMUX
+ ### UNTUK MENJALANKAN UBUNTU DI TERMUX
 
- $./startubuntu.sh
+ **$./startubuntu.sh**
